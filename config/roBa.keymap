@@ -5,6 +5,7 @@
 
 &mt {
     flavor = "tap-preferred";
+    tapping-term-ms = <100>;
     quick-tap-ms = <0>;
 };
 
