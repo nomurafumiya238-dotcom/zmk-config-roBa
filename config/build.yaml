@@ -1,5 +1,5 @@
 include:
   - board: xiao_ble
-    shield: roba_left
+    shield: roBa_L
   - board: xiao_ble
-    shield: roba_right
+    shield: roBa_R
