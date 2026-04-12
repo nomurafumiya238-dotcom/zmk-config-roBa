@@ -3,3 +3,7 @@ on: [push, pull_request, workflow_dispatch]
 jobs:
   build:
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
+    with:
+      # ここに使用しているボード（XIAO BLE等）を明示的に指定します
+      # qualifier エラーを回避するため、新しい正式名称で記述してください
+      machine: seeeduino_xiao_ble
