@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: main
+      revision: v0.3-branch  # ←ここを main から v0.3-branch に変更
       import: app/west.yml
   self:
     path: config
