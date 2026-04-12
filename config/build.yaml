@@ -1,7 +1,0 @@
-include:
-  - board: xiao_ble
-    shield: roBa_L
-  - board: xiao_ble
-    shield: roBa_R
-  - board: xiao_ble
-    shield: settings_reset  # ← これを追加（ボード名は xiao_ble にする）
