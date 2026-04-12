@@ -8,7 +8,6 @@ on:
   #     - "config/roBa.keymap"
   #     - "keymap_drawer.config.yaml"
   #     - "config/roBa.dtsi"
-  
 
 jobs:
   draw:
