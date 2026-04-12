@@ -1,5 +1,5 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: roba_left
+    shield: roba_L
   - board: seeeduino_xiao_ble
-    shield: roba_right
+    shield: roba_R
