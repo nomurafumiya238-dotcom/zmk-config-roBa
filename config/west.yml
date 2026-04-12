@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: v0.2  # mainからv0.2に変更することで古い定義との互換性を保ちます
+      revision: main  # ここを main に戻してください
       import: app/west.yml
   self:
     path: config
